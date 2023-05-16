@@ -1,10 +1,4 @@
 package herencia.ejercicio2.model;
-/*
-Crear las clases Coche, Barco, Avión y Tren heredando de Vehiculo. Debes añadir
-aquellas propiedades y métodos que creas conveniente así como sobrescribir aquellos
-métodos que consideras necesario.
-Por ultimo crea una clase TestVehiculos donde instancias todas las clases y procedas
-a llamar a sus métodos.*/
 
 public class Coche extends Vehiculo {
     private int ruedas;
