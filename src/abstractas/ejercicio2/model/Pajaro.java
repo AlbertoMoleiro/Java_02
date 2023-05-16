@@ -1,2 +1,5 @@
-package abstractas.ejercicio2.model;public class Pajaro {
+package abstractas.ejercicio2.model;
+
+public abstract class Pajaro extends Animal{
+
 }
